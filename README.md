@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Kauanny 😁
+## Bem-vindo(a)!
 
  <div>
    <a href="https://github.com/kauannyalencar">
