@@ -1,22 +1,22 @@
 # 🌟 Kauanny Alencar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kauannyalencar)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/kauanny_alencar)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Kauannyalencar)
-
----
+<div style=display_flex gap_5>
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-conect-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Instagram-follow-%23a8323e">
+<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-profile-%23202020">
+</div>
 
 ## 🇧🇷 Sobre mim
 🎓 Desenvolvedora **Front-End em ascensão**, atualmente estudando e construindo projetos práticos para evoluir minhas habilidades.  
 ⚛️ Estou aprendendo **React** para criar interfaces modernas e dinâmicas.  
-🚀 Apaixonada por tecnologia e sempre buscando aprender algo novo.  
+🚀 Fascinada por tecnologia e sempre buscando aprender algo novo.  
 
 ---
 
 ## 🇺🇸 About me
 🎓 **Up-and-Coming Front-End Developer**, currently studying and building practical projects to improve my skills.  
 ⚛️ Learning **React** to build modern and dynamic interfaces.  
-🚀 Passionate about technology and always eager to learn something new.  
+🚀 Tech enthusiast, always eager to learn and grow.
+ 
 
 ---
 
