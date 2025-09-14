@@ -1,9 +1,15 @@
 # 🌟 Kauanny Alencar
 <div style=display_flex gap_5>
 <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-conect-blue">
+  <a href="https://www.linkedin.com/in/kauannyalencar"></a></img>
 <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-follow-%23a8323e">
+  <a href="https://www.instagram.com/kauanny_alencar"></a>
+</img>
 <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-profile-%23202020">
+ <a href="https://github.com/Kauannyalencar"></a>
+</img>
 </div>
+
 
 ## 🇧🇷 Sobre mim
 🎓 Desenvolvedora **Front-End em ascensão**, atualmente estudando e construindo projetos práticos para evoluir minhas habilidades.  
