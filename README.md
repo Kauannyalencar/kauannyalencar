@@ -6,9 +6,16 @@
 
 ## About me
 🎓 **Up-and-Coming Front-End Developer**, currently studying and building practical projects to improve my skills.  
-<p>⚛️ Learning **React** to build modern and dynamic interfaces. </p>
-<p>🚀 Tech enthusiast, always eager to learn and grow.</p>
- 
+
+⚛️ Learning **React** to build modern and dynamic interfaces.
+
+🚀 Tech enthusiast, always eager to learn and grow.</p>
+
+ 
+## 📊 GitHub Stats
+
+![Kauanny's GitHub stats](https://github-readme-stats-phi-two-72.vercel.app/api?username=KauannyAlencar&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats-phi-two-72.vercel.app/api/top-langs/?username=KauannyAlencar&layout=compact&theme=dark)
 
 
 ## 🛠️ Skills
@@ -21,7 +28,3 @@
 </div>
 
 
-## 📊 GitHub Stats
-
-![Kauanny's GitHub stats](https://github-readme-stats-phi-two-72.vercel.app/api?username=KauannyAlencar&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats-phi-two-72.vercel.app/api/top-langs/?username=KauannyAlencar&layout=compact&theme=dark)
